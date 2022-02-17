@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yewandeolatinwo
 - 👀 I’m interested in animations using CSS & HTML
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m open to learning and exploring more on web development...
 - 📫 How to reach me 
 
 <!---
